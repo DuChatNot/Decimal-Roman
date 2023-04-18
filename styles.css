@@ -1,0 +1,38 @@
+body{
+    margin: 20px;
+    padding: 12px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+#main{
+    display: grid;
+    justify-items: center;
+    align-content: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+#title{
+    font-size: 32px;
+    color: red;
+}
+
+#input{
+    height: 25px;
+    width: 300px;
+    font-size: 16px;
+    padding: 4px;
+    margin-bottom: 12px;
+    border-radius: 8px;
+}
+
+#button{
+    border-radius: 8px;
+    width: 300px;
+    height: 25px;
+    margin: 16px;
+    cursor: pointer;
+
+}
